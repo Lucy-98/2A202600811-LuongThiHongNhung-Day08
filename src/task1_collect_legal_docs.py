@@ -26,7 +26,7 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
 def setup_directory():
     """Tạo thư mục data/landing/legal/ nếu chưa có."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"✓ Thư mục đã sẵn sàng: {DATA_DIR}")
+    print(f"[OK] Thu muc da san sang: {DATA_DIR}")
 
 
 # TODO: Tải file PDF/DOCX về DATA_DIR

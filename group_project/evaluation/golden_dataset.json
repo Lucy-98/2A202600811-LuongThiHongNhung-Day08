@@ -13,5 +13,65 @@
     "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
     "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
     "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Nghệ sĩ Andrea Aybar (An Tây) bị bắt vì hành vi gì vào năm 2024?",
+    "expected_answer": "Andrea Aybar bị tạm giữ và khởi tố về hành vi 'Tổ chức sử dụng trái phép chất ma túy' và 'Tàng trữ trái phép chất ma túy'.",
+    "expected_context": "article_01.json"
+  },
+  {
+    "question": "Ca sĩ Chi Dân bị Công an quận Tân Bình tạm giữ vào thời gian nào và vì hành vi gì?",
+    "expected_answer": "Ca sĩ Chi Dân bị tạm giữ vào tháng 11 năm 2024 (cụ thể ngày 9/11) vì hành vi liên quan đến sử dụng trái phép chất ma túy.",
+    "expected_context": "article_01.json"
+  },
+  {
+    "question": "Diễn viên Hữu Tín bị kết án bao nhiêu năm tù và vì tội danh gì?",
+    "expected_answer": "Diễn viên Hữu Tín bị tuyên phạt 7 năm 6 tháng tù về tội 'Tổ chức sử dụng trái phép chất ma túy'.",
+    "expected_context": "article_02.json"
+  },
+  {
+    "question": "Cựu diễn viên Lệ Hằng bị bắt giữ và khởi tố vì hành vi gì?",
+    "expected_answer": "Lệ Hằng bị khởi tố về hành vi 'Mua bán trái phép chất ma túy' sau khi bị bắt quả tang đang mua bán 0,696 gram ma túy tổng hợp.",
+    "expected_context": "article_03.json"
+  },
+  {
+    "question": "Ca sĩ Chu Bin bị lực lượng chức năng tạm giữ tại địa bàn quận nào của TP.HCM?",
+    "expected_answer": "Ca sĩ Chu Bin bị tạm giữ tại địa bàn quận 10, TP.HCM vì hành vi tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "article_04.json"
+  },
+  {
+    "question": "Trách nhiệm của gia đình người nghiện ma túy theo Luật Phòng chống ma túy là gì?",
+    "expected_answer": "Gia đình có trách nhiệm giáo dục thành viên, khai báo với cơ quan chức năng, hỗ trợ người nghiện thực hiện cai nghiện và phối hợp với cơ quan có thẩm quyền.",
+    "expected_context": "Luật Phòng chống ma túy"
+  },
+  {
+    "question": "Người nghiện ma túy từ đủ bao nhiêu tuổi trở lên thì bị áp dụng biện pháp cai nghiện bắt buộc?",
+    "expected_answer": "Người nghiện ma túy từ đủ 18 tuổi trở lên khi thuộc các trường hợp do luật định.",
+    "expected_context": "Luật Phòng chống ma túy"
+  },
+  {
+    "question": "Chuyên án VN10 liên quan đến những đối tượng nghệ sĩ nào bị truy tố?",
+    "expected_answer": "Chuyên án VN10 liên quan đến người mẫu Andrea Aybar (An Tây) và ca sĩ Chi Dân cùng nhiều bị can khác trong đường dây vận chuyển ma túy từ Pháp về Việt Nam.",
+    "expected_context": "article_05.json"
+  },
+  {
+    "question": "Hành vi nào bị nghiêm cấm theo Luật Phòng chống ma túy Việt Nam?",
+    "expected_answer": "Cấm trồng cây chứa chất ma túy, sản xuất, tàng trữ, vận chuyển, mua bán, sử dụng, cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy.",
+    "expected_context": "Luật Phòng chống ma túy"
+  },
+  {
+    "question": "Đối tượng nào được miễn hoặc hoãn chấp hành quyết định cai nghiện bắt buộc?",
+    "expected_answer": "Người đang mắc bệnh hiểm nghèo, phụ nữ có thai hoặc đang nuôi con nhỏ dưới 36 tháng tuổi có thể được tạm hoãn hoặc miễn chấp hành theo quy định.",
+    "expected_context": "Nghị định hướng dẫn thi hành luật"
+  },
+  {
+    "question": "Ai là người có thẩm quyền quyết định việc áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc?",
+    "expected_answer": "Tòa án nhân dân cấp huyện là cơ quan có thẩm quyền xem xét, quyết định việc đưa người nghiện vào cơ sở cai nghiện bắt buộc.",
+    "expected_context": "Luật Phòng chống ma túy"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma túy bị lập danh sách và quản lý trong thời hạn bao nhiêu lâu?",
+    "expected_answer": "Người sử dụng trái phép chất ma túy bị quản lý trong thời hạn 01 năm kể từ ngày có hành vi sử dụng trái phép chất ma túy gần nhất.",
+    "expected_context": "Luật Phòng chống ma túy"
   }
 ]

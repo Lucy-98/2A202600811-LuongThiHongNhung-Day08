@@ -1,0 +1,8 @@
+# Ca sĩ Chi Dân, Andrea Aybar bị khởi tố liên quan đường dây ma tuý lớn
+
+**Source:** https://vnexpress.net/ca-si-chi-dan-andrea-aybar-bi-truy-to-khoi-to-4815222.html
+**Crawled:** 2026-06-08T15:04:44.988920
+
+---
+
+Vien Kiem sat nhan dan TP HCM hoan tat cao trang truy to bi can Andrea Aybar (nguoi mau An Tay) va ca si Chi Dan trong chuyen an VN10 van chuyen ma tuy tu Phap ve Viet Nam. Trong do, nguoi mau Andrea Aybar bi khoi to va truy to ve hai toi danh la 'To chuc su dung trai phep chat ma tuy' va 'Tang tru trai phep chat ma tuy'. Con ca si Chi Dan bi truy to ve toi danh to chuc su dung ma tuy. Can ho cao cap cua nu nguoi mau tai TP Thu Duc duoc xac dinh la noi nhom doi tuong thuong xuyen to chuc su dung cac chat kich thich bay lac.
